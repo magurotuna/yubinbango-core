@@ -72,3 +72,6 @@ module YubinBango {
     }
   }
 }
+
+export = YubinBango;
+
